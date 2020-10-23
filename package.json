@@ -1,0 +1,16 @@
+{
+  "name": "fast-hash-code",
+  "version": "1.0.0",
+  "description": "Generate a hash from a string, simple and fast.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrehpiva/fast-hash-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrehpiva/fast-hash-code/issues"
+  },
+  "homepage": "https://github.com/alexandrehpiva/fast-hash-code#readme"
+}
