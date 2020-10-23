@@ -1,6 +1,6 @@
 {
   "name": "fast-hash-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a hash from a string, simple and fast.",
   "main": "index.js",
   "repository": {
