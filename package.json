@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/alexandrehpiva/fast-hash-code/issues"
   },
-  "homepage": "https://github.com/alexandrehpiva/fast-hash-code#readme"
+  "homepage": "https://github.com/alexandrehpiva/fast-hash-code#readme",
+  "keywords": [
+    "fast",
+    "hash",
+    "code",
+    "string"
+  ]
 }
