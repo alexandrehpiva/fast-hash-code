@@ -1,6 +1,11 @@
 # fast-hash-code
 Generate a hash from a string, simple and fast.
 
+# Installation
+```
+yarn add fast-hash-code
+```
+
 ## Example
 
 ```js
