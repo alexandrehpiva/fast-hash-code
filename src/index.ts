@@ -36,3 +36,5 @@ export function fastHashCode(
 
   return hash
 }
+
+export default fastHashCode
