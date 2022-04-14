@@ -1,4 +1,6 @@
-[![npm](https://img.shields.io/npm/v/fast-hash-code.svg)](https://www.npmjs.com/package/fast-hash-code) [![npm](https://img.shields.io/npm/dy/fast-hash-code)](https://www.npmjs.com/package/fast-hash-code)
+[![npm](https://img.shields.io/npm/v/fast-hash-code.svg)](https://www.npmjs.com/package/fast-hash-code)
+[![npm](https://img.shields.io/npm/dy/fast-hash-code)](https://www.npmjs.com/package/fast-hash-code)
+[![travis](https://app.travis-ci.com/alexandrehpiva/fast-hash-code.svg?branch=main)](https://travis-ci.com/github/alexandrehpiva/fast-hash-code)
 
 # fast-hash-code
 
