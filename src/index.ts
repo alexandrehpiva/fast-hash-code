@@ -2,7 +2,7 @@
 /**
  * Generate a hash from a string, simple and fast.
  * reference: https://werxltd.com/wp/2010/05/13/javascript-implementation-of-javas-string-hashcode-method/
- * @version 2.0.0
+ * @version 2.1.0
  * @param {string} str Input string
  * @param {Object} options Options
  * @param {boolean} options.forcePositive If true, the hash will be forcePositive.
