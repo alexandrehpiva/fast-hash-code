@@ -15,7 +15,7 @@ yarn add fast-hash-code
 ```js
 import fastHashCode from 'fast-hash-code';
 
-fastHashCode('Hello World!'); // -862545276
+fastHashCode('Hello World!'); // -969099747
 ```
 
 ### References
