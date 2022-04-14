@@ -5,7 +5,9 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepublish": "tsc"
+    "prepare": "tsc -b",
+    "build": "yarn run-s test prepare",
+    "test": "jest --config jestconfig.json --coverage"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,13 @@
     "url": "https://github.com/alexandrehpiva/fast-hash-code/issues"
   },
   "homepage": "https://github.com/alexandrehpiva/fast-hash-code#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.3",
+    "prettier": "^2.3.0",
+    "ts-jest": "^27.0.2",
+    "typescript": "^4.3.2"
+  },
   "keywords": [
     "fast",
     "hash",

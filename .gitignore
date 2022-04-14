@@ -1,2 +1,19 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Library
 dist/
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+
+# Coverage directory
+coverage/
+
+# Mac files
+.DS_Store
