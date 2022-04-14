@@ -1,6 +1,11 @@
 [![npm](https://img.shields.io/npm/v/fast-hash-code.svg)](https://www.npmjs.com/package/fast-hash-code)
 [![npm](https://img.shields.io/npm/dy/fast-hash-code)](https://www.npmjs.com/package/fast-hash-code)
 [![travis](https://app.travis-ci.com/alexandrehpiva/fast-hash-code.svg?branch=main)](https://travis-ci.com/github/alexandrehpiva/fast-hash-code)
+[![Latest Version](https://img.shields.io/npm/v/fast-hash-code)](https://www.npmjs.com/package/fast-hash-code)
+[![Downloads](https://img.shields.io/npm/dw/fast-hash-code)](https://www.npmjs.com/package/fast-hash-code)
+[![JsDelivr](https://data.jsdelivr.com/v1/package/npm/fast-hash-code/badge?style=rounded)](https://www.jsdelivr.com/package/npm/fast-hash-code)
+[![Bundlephobia](https://img.shields.io/bundlephobia/minzip/fast-hash-code/latest?style=flat)](https://bundlephobia.com/package/fast-hash-code@latest)
+[![Packagephobia](https://packagephobia.com/badge?p=fast-hash-code@latest)](https://packagephobia.com/result?p=fast-hash-code@latest)
 
 # fast-hash-code
 
